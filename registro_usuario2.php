@@ -74,7 +74,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Registro de Usuario</title>
-    <h2>Completa el formulario para crear tu cuenta y agendar tu cita </h2>
     <style>
         /* Estilos generales */
 body {
